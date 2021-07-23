@@ -1,0 +1,2 @@
+#htmlでinclude読み込み
+AddHandler application/x-httpd-php .php .html

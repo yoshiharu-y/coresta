@@ -68,7 +68,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p style="text-align:center;">&copy; 2017 coresta.com. All rights reserved.</p>
+                    <p style="text-align:center;">&copy; 2018 coresta.com. All rights reserved.</p>
                 </div>
             </div>
         </div>
